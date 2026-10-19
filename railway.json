@@ -20,6 +20,7 @@
     "restartPolicyMaxRetries": 10,
     "numReplicas": 1,
     "sleepApplication": false,
+    "ipv6EgressEnabled": true,
     "overlapSeconds": 30,
     "drainingSeconds": 25
   }
