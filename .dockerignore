@@ -1,1 +1,10 @@
-
+**
+!go.mod
+!main.go
+!proxy.go
+!supervisor.go
+!cfedge.go
+!bermuda.jpg
+!config.json
+!Dockerfile
+!.dockerignore
